@@ -1,0 +1,62 @@
+/*COLORES*/
+.cBlack {
+	background-color: black;
+}
+.cGray {
+	background-color: #D8D8D8;
+}
+.tWhite {
+	color: white;
+}
+/*ENLACES*/
+a {
+	color: black;
+}
+/*MARGENES Y PADDINGS*/
+.mt2 {
+	margin-top: 2%;
+}
+.mt5 {
+	margin-top: 5%;
+}
+.pt5 {
+	padding-top: 5%;
+}
+.p-lat {
+	padding: 0 4%;
+}
+.p-lat1 {
+	padding: 0 2%;
+}
+.p-lat2 {
+	margin: 2% 0%;
+	padding: 1% 3%;
+}
+.tex1 {
+	display: inline-block;
+	padding-left: 3%;
+}
+/*SECCIONES*/
+.hoja { /*IMAGEN-HOJA*/
+	width: 100%;
+}
+.btn-1 { /*BOTONES)*/
+	width: 42%;
+	border-radius: 6px;
+	padding: 2% 2% 1% 2%;
+	background-color: #A4A4A4;
+}
+.fecha { /*AGENDA*/
+	padding: 35% 0;
+	font-size: 1.2em;
+}
+#final { /*LINEA GRUESA FINAL*/
+	border: 0.3em solid black;
+}
+.icn-1 li { /*ICONOS*/
+	display: block;
+	padding-top: 2%;
+}
+.diagonal {
+	border-left: 1px solid gray;
+	}
